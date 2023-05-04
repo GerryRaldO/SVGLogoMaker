@@ -1,2 +1,0 @@
-# SVGLogoMaker
-SVG Logo Maker

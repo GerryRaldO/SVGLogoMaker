@@ -1,19 +1,67 @@
-# SVG Logo Maker
+SVGLogoMaker
+Description.
+To generate a SVG logo based on user input
 
-Command line tool to generate an svg logo and write it to file.
 
-## Usage
 
-- Requires Node v12+. (This app has only been tested on Node 16)
-- Run `npm install` to download dependencies.
-- Run `node index.js` to start the app.
-  - Answer questions to generate a logo.
-  - Logo will be written to `logo.svg` in the working directory.
-- Run tests with `npm run test`
+Table of Contents
+- [Installation](#installation)
+- [Usage](#usage)
+- [License](#license)
+- [Contributing](#contribution)
+- [Tests](#tests)
+- [Questions](#questions)
 
-## References
 
-<https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial/Introduction>
-<https://marketplace.visualstudio.com/items?itemName=jock.svg>
-<https://github.com/SBoudrias/Inquirer.js>
-<https://jestjs.io/>
+
+
+
+
+
+## INSTALLATION
+To install, npm i
+
+
+
+
+## USAGE
+to use, write index.js on the terminal
+To use. Type in data based on questions given
+
+
+
+
+
+## LICENSE
+The license used in this program is MIT License
+
+
+
+
+
+
+## CONTRIBUTION
+Gerald McPherson
+
+
+
+
+
+
+## TESTS
+Shapes.test.js
+Svg.test.js
+
+
+
+
+
+## QUESTIONS
+If you have any questions please reach out to me on github at GerryRaldO or email me at gerald@blackberryhill.net!
+
+
+
+
+
+Git Repo https://gerryraldo.github.io/SVGLogoMaker/
+https://drive.google.com/file/d/1T1CL49gqd_55wkK1lkDA0Up7TFqQpq3X/view
